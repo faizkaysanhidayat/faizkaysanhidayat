@@ -1,16 +1,27 @@
-## Hi there 👋
+# Faiz Kaysan Hidayat
 
-<!--
-**faizkaysanhidayat/faizkaysanhidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Infrastructure Engineer focused on building reliable systems, clean infrastructure, and practical technology solutions.
 
-Here are some ideas to get you started:
+Currently building with **Adastra Visi Teknologi**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Infrastructure & System Administration
+- Networking
+- Cloud & Server Management
+- Automation
+- DevOps Fundamentals
+- Web & Backend Technology
+
+## Philosophy
+
+Build systems that are simple, reliable, and ready to scale.
+
+## Connect
+
+- Organization: [Adastra Visi Teknologi](https://github.com/Adastra-Visi-Teknologi)
+- Email: ext.faiz.hidayat@adastra.id
+
+---
+
+> **Built to move forward.**
